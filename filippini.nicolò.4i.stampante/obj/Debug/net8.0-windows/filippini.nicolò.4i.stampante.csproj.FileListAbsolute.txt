@@ -1,0 +1,4 @@
+C:\Users\Admin\Source\Repos\filippini.nicolò.4i.stampante\filippini.nicolò.4i.stampante\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\Source\Repos\filippini.nicolò.4i.stampante\filippini.nicolò.4i.stampante\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\Source\Repos\filippini.nicolò.4i.stampante\filippini.nicolò.4i.stampante\obj\Debug\net8.0-windows\filippini.nicolò.4i.stampante_MarkupCompile.cache
+C:\Users\Admin\Source\Repos\filippini.nicolò.4i.stampante\filippini.nicolò.4i.stampante\obj\Debug\net8.0-windows\filippini.nicolò.4i.stampante_MarkupCompile.lref
